@@ -1,0 +1,154 @@
+
+.description {
+  font-size: 2rem;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Work Sans', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border: none;
+  border-top: 10px dotted #c2cfd5;
+  width: 90px;
+}
+
+.top-container {
+  background-color: #f0ece3;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.mountain {
+  position: relative;
+  top: 30px;
+}
+
+.sarah {
+  margin-top: 100px;
+  width: 17%;
+}
+
+.about {
+  width: 35%;
+  margin: 50px auto 130px auto;
+
+}
+
+.skills {
+  margin-top: 130px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 0 auto;
+  text-align: left;
+  line-height: 2;
+  margin-bottom: 150px;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 70px auto 0 auto;
+  text-align: right;
+  line-height: 2;
+  margin-bottom: 150px;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.getintouch {
+  margin-top: 100px;
+  line-height: 2;
+}
+
+.last-p {
+  width: 35%;
+  margin: 0 auto 50px auto;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.email {
+  text-decoration: none;
+  color: white;
+}
+
+.contact-b {
+  border:0;
+  text-align: center;
+  font-size: 1.5rem;
+  background: linear-gradient(180deg, #66BFBF 0%, #569e9e 100%);;
+  padding: 20px;
+  margin: 15px auto 100px auto;
+  border-radius: 8px;
+  letter-spacing: 2px;
+
+}
+
+.footer-link {
+  padding: 20px;
+  text-decoration: none;
+  color: #11999E
+
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  height: 70px;
+  padding: 60px;
+}
+
+.tagline {
+  margin-top: 40px;
+  color: white;
+  font-size: 15px;
+}
